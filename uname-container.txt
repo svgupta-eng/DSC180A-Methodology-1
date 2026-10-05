@@ -1,0 +1,1 @@
+Linux svgupta-2778862 6.1.0-51-amd64 #1 SMP PREEMPT_DYNAMIC Debian 6.1.177-1 (2026-07-16) x86_64 x86_64 x86_64 GNU/Linux
